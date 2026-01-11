@@ -99,3 +99,8 @@ Grâce à `flex:1`, l’écran est réparti verticalement de façon fluide.
 * Structurer proprement une application mobile
 
 ---
+
+## 👩‍💻 Auteur
+
+* **Réalisé par :** HASSAOUI Aya
+* **Encadré par :** Pr. Mohamed Lechgar
